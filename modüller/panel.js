@@ -21,9 +21,9 @@ const db = require('quick.db');
 module.exports = (client) => {
   
   const bilgiler = {
-    oauthSecret: "Ku430cPleZhNeJ_Zi6jSjPUo4YhIrumh",
-    callbackURL: `https://vortex-altyaps.glitch.me/callback`,
-    domain: `https://vortex-altyaps.glitch.me`
+    oauthSecret: "yFQF33mC9Mo7GrcVljX9IT2dtE7SXKLO",
+    callbackURL: `https://paint-marked-attempt.glitch.me/callback`,
+    domain: `https://paint-marked-attempt.glitch.me`
   };
   
 // PROJEYİ GİZLİYE ALMAYI UNUTMA
